@@ -1,0 +1,1 @@
+Use git add . to stage all files in the directory
